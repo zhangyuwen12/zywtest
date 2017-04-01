@@ -3,6 +3,8 @@
 
 #Set up the environment,help developers and testers switch server address in the debug mode or the test package,debug the program.设置环境，帮助开发者和测试者在debug模式下或者测试包上切换服务器地址，调试程序
 
+＃这里是git教学。我是李老师
+
 1. The functions of this tool: in a given switching between the address of the server, and back to the selected address by block for developers and testers can switch the server address when using the APP widgets.
 
 2. The application to start, check the server address is correct, if not correct, return an error.
